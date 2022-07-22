@@ -16,7 +16,6 @@ Enjoy.
 | dns-zoneconf           | Check DNS zone configuration against best practices, including RFC 1912.           |
 | dns-zonetransfer       | Perform a zone transfer.                                                           |
 | proxy-checker          | Test reliability of open web proxies.                                              |
-| ---------------------- | ---------------------------------------------------------------------------------- |
 
 ## Dependencies:
 
