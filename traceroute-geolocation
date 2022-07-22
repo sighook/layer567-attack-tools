@@ -1,9 +1,0 @@
-#!/bin/sh
-[ -n "$1" ] || {
-	echo "usage: $0 <host> [nmap args]"
-	exit 1
-}
-
-nmap --traceroute --script traceroute-geolocation $@
-
-# End of file.
