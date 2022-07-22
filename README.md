@@ -27,5 +27,7 @@ Enjoy.
 ## See also
 
 - [layer234_attack_tools](https://github.com/chinarulezzz/layer234_attack_tools) - Layer 2, 3 and 4 attack tools.
+- smtp-user-enum
+- tnscmd10g
 
 <!-- End of file. -->
