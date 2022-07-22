@@ -10,12 +10,12 @@ Enjoy.
 
 | Name                   | Description                                                                        |
 | ---------------------- | ---------------------------------------------------------------------------------- |
-| dns-amplflood          | Test DNS server against amplification DDoS attack.                                 |
-| dns-cachesnoop         | Perform DNS cache snooping against a DNS server.                                   |
-| dns-enum               | Enumerate DNS hostnames by brute force guessing of common subdomains.              |
-| dns-zoneconf           | Check DNS zone configuration against best practices, including RFC 1912.           |
-| dns-zonetransfer       | Perform a zone transfer.                                                           |
-| proxy-checker          | Test reliability of open web proxies.                                              |
+| dns_amplflood.py       | Test DNS server against amplification DDoS attack.                                 |
+| dns_cachesnoop.pl      | Perform DNS cache snooping against a DNS server.                                   |
+| dns_enum.sh            | Enumerate DNS hostnames by brute force guessing of common subdomains.              |
+| dns_zoneconf.pl        | Check DNS zone configuration against best practices, including RFC 1912.           |
+| dns_zonetransfer.pl    | Perform a zone transfer.                                                           |
+| proxy_checker.pl       | Test reliability of open web proxies.                                              |
 
 ## Dependencies:
 
@@ -25,7 +25,7 @@ Enjoy.
 
 ## See also
 
-- [layer234_attack_tools](https://github.com/chinarulezzz/layer234_attack_tools) - Layer 2, 3 and 4 attack tools.
+- [layer234-attack-tools](https://github.com/chinarulezzz/layer234-attack-tools) - Layer 2, 3 and 4 attack tools.
 - smtp-user-enum
 - tnscmd10g
 
